@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#define ANO_ATUAL 2023
+#define ANO_ATUAL 2024
 
 struct Cadastro{
   char nome[50];
